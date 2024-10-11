@@ -1,3 +1,3 @@
 # RandomRepo
 
-This is a random change made
+Added a CPP file inside the RandomFolder.
